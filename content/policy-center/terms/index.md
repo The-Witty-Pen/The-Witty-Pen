@@ -1,9 +1,9 @@
 ---
 title: "Terms & Conditions"
-#summary: "Himani Malhotra & Jason Pacliwan"
+summary: "T&Cs for this website"
 categories: ["Terms & Conditions","Policy","Legal"]
 tags: ["Terms & Conditions","Policy","Legal"]
-showSummary: false
+showSummary: true
 date: 2022-01-01
 draft: false
 ---

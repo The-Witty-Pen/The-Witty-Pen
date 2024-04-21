@@ -1,9 +1,9 @@
 ---
 title: "Privacy Policy"
-#summary: "Himani Malhotra & Jason Pacliwan"
+summary: "Privacy policy for this website"
 categories: ["Privacy","Policy","Legal"]
 tags: ["Privacy","Policy","Legal"]
-showSummary: false
+showSummary: true
 date: 2022-01-01
 draft: false
 ---

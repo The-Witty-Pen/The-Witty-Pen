@@ -1,9 +1,9 @@
 ---
 title: "Accessibility"
-#summary: "Himani Malhotra & Jason Pacliwan"
+summary: "Accessibility help for this website"
 categories: ["Accessibility","Policy","Legal"]
 tags: ["Accessibility","Policy","Legal"]
-showSummary: false
+showSummary: true
 date: 2022-01-01
 draft: false
 ---
