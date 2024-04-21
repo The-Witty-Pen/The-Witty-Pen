@@ -128,5 +128,35 @@
       
     </item>
     
+    <item>
+      <title>Contact</title>
+      <link>http://thewittypen.com/tags/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://thewittypen.com/tags/contact/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Mail</title>
+      <link>http://thewittypen.com/tags/mail/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://thewittypen.com/tags/mail/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Message</title>
+      <link>http://thewittypen.com/tags/message/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://thewittypen.com/tags/message/</guid>
+      <description></description>
+      
+    </item>
+    
   </channel>
 </rss>
