@@ -11,5 +11,5 @@ draft: false
 ## Reach Out
 We're standing by to solve any issues regarding ADA compliance.
 
-Please reach out to us using our [Contact-Us](/contact-us/) page
+Please [Contact-Us](/contact-us/)
 

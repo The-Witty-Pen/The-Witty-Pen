@@ -9,5 +9,5 @@ showSummary: false
 draft: false
 ---
 <body>
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLScpV6zMpsV2zawmT-jsGsa_fvasH5IzEQjiQdtLvmJ_fw3Ihw/viewform?embedded=true" width="1000" height="1200" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>   
-<body\> 
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLScpV6zMpsV2zawmT-jsGsa_fvasH5IzEQjiQdtLvmJ_fw3Ihw/viewform?embedded=true" width="760" height="1200" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>   
+</body>

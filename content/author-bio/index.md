@@ -29,15 +29,14 @@ draft: false
 >I hope that these stories will evoke a range of emotions, fostering a sense of connection for readers young and old alike. 
 
 ## Follow Me On 
-<div>
-<a href="https://www.target.com/s?searchTerm=himani+malhotra+books&tref=typeahead%7Cterm%7Chimani+malhotra+books%7C%7C%7Chistory" target="_blank">{{< icon "bullseye" >}} Target &nbsp;|&nbsp;</a> 
-<a href="https://twitter.com/momoandslowmo" target="_blank">{{< icon "x-twitter" >}} Twitter&nbsp;|&nbsp; </a>
-<a href="https://www.youtube.com/channel/UC0M9TsDeoNSSru-J-CYiH2A" target="_blank">{{< icon "youtube" >}} Youtube &nbsp;|&nbsp;</a>
-<a href="https://www.walmart.com/search?q=Himani+Malhotra%3B+Jason+Pacliwan&facet=brand%3AHimani+Malhotra%3B+Jason+Pacliwan%7C%7Cbrand%3AHimani+Malhotra%7C%7Cbrand%3AWitty+Pen+Media%2C+LLC" target="_blank">{{< icon "walmart1" >}} Walmart &nbsp;|&nbsp;</a>
+
+
+<a href="https://www.target.com/s?searchTerm=himani+malhotra+books&tref=typeahead%7Cterm%7Chimani+malhotra+books%7C%7C%7Chistory" target="_blank">{{< icon "bullseye" >}} Target &nbsp;&nbsp;</a><br>
+<a href="https://twitter.com/momoandslowmo" target="_blank">{{< icon "x-twitter" >}} Twitter&nbsp;&nbsp; </a><br>
+<a href="https://www.youtube.com/channel/UC0M9TsDeoNSSru-J-CYiH2A" target="_blank">{{< icon "youtube" >}} Youtube &nbsp;&nbsp;</a><br>
+<a href="https://www.walmart.com/search?q=Himani+Malhotra%3B+Jason+Pacliwan&facet=brand%3AHimani+Malhotra%3B+Jason+Pacliwan%7C%7Cbrand%3AHimani+Malhotra%7C%7Cbrand%3AWitty+Pen+Media%2C+LLC" target="_blank">{{< icon "walmart1" >}} Walmart &nbsp;&nbsp;</a><br>
 <a href="https://www.amazon.com/stores/Himani-Malhotra/author/B0BCR5KNLW?ref=ap_rdr&isDramIntegrated=true&shoppingPortalEnabled=true" target="_blank">{{< icon "amazon" >}} Amazon</a> 
 
-</div>
-<br>
 {{< badge >}} &nbsp; Links open in a new browser tab &nbsp;{{< /badge >}}
 
 

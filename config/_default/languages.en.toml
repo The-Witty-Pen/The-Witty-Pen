@@ -1,7 +1,7 @@
 languageCode = "en"
 languageName = "English"
 weight = 1
-title = "The Witty Pen"
+title = "The&nbsp;Witty&nbsp;Pen"
 
 [params]
 displayName = "EN"
@@ -10,7 +10,7 @@ rtl = false
 dateFormat = "2 January 2006"
 logo = "logo.png"
 description = "Momo & Slowmo is a children’s book series with two adorable characters, Momo (the hedgehog) and SlowMo (the sloth) and their enduring friendship, they together embark on a number of adventures, discovering and understanding not only the world around them"
-copyright = "&copy; 2024 The Witty Pen Media" # This overrides the Footer Copyright partial
+copyright = "&copy; 2024 The Witty Pen Media, LLC" # This overrides the Footer Copyright partial
 
 
 

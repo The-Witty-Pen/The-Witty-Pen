@@ -1,46 +1,74 @@
 [[main]]
 none = "none"
 
+[[main]]
+  name = "Author"
+  pre = "threads"
+  pageRef = "author-bio"
+  weight = 10
+
+[[main]]
+  name = "Contact"
+  pre = "envelope1"
+  pageRef = "contact-us"
+  weight = 20
 
 [[main]]
   name = "Portfolio"
   pageRef = "portfolio"
   pre = "grid"
-  weight = 10
-
+  weight = 30
 
 [[main]]
+  name = "Policy&nbsp;Center"
+  pre = "information"
+  pageRef = "policy-center"
+  weight = 40
+
+[[main]]
+  name = "External&nbsp;Links"
+  pre = "link"
+  weight = 50
+
+[[main]]
+  parent = "External&nbsp;Links"
+  identifier = "target"
+  name = "Target"
+  pre = "bullseye"
+  url = "https://www.target.com/s?searchTerm=himani+malhotra+books&tref=typeahead%7Cterm%7Chimani+malhotra+books%7C%7C%7Chistory"
+  weight = 60
+
+[[main]]
+  parent = "External&nbsp;Links"
+  identifier = "amazon"
+  name = "Amazon"
+  pre = "amazon"
+  url = "https://www.amazon.com/stores/Himani-Malhotra/author/B0BCR5KNLW?ref=ap_rdr&isDramIntegrated=true&shoppingPortalEnabled=true"
+  weight = 65
+
+[[main]]
+  parent = "External&nbsp;Links"
+  identifier = "walmart"
+  name = "Walmart"
+  pre = "walmart1"
+  url = "https://www.walmart.com/search?q=Himani+Malhotra%3B+Jason+Pacliwan&facet=brand%3AHimani+Malhotra%3B+Jason+Pacliwan%7C%7Cbrand%3AHimani+Malhotra%7C%7Cbrand%3AWitty+Pen+Media%2C+LLC"
+  weight = 70
+
+[[main]]
+  parent = "External&nbsp;Links"
   identifier = "Youtube"
   name ="Youtube"
   pre = "youtube"
   url = "https://www.youtube.com/channel/UC0M9TsDeoNSSru-J-CYiH2A"
-  weight = 30
-
+  weight = 75
 
 [[main]]
+  parent = "External&nbsp;Links"
   identifier = "twitter"
   name = "Twitter(X)"
   pre = "x-twitter"
   url = "https://twitter.com/momoandslowmo"
-  weight = 60
-
-[[main]]
-  name = "About"
-  pre = "threads"
-  pageRef = "author-bio"
-  weight = 90
-
-[[main]]
-  name = "Contact"
-  pre = "envelope"
-  pageRef = "contact-us"
-  weight = 100
-
-[[main]]
-  name = " Policy Center"
-  pre = "list"
-  pageRef = "policy-center"
-  weight = 120
+  weight = 80
 
 
 [[footer]]
