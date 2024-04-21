@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Privacy on The Witty Pen</title>
+    <link>https://The-Witty-Pen.github.io/The-Witty-Pen/tags/privacy/</link>
+    <description>Recent content in Privacy on The Witty Pen</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>&amp;copy; 2024 The Witty Pen Media</copyright>
+    <atom:link href="https://The-Witty-Pen.github.io/The-Witty-Pen/tags/privacy/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Privacy Policy</title>
+      <link>https://The-Witty-Pen.github.io/The-Witty-Pen/policy-center/privacy/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://The-Witty-Pen.github.io/The-Witty-Pen/policy-center/privacy/</guid>
+      <description>This notice describes The Witty Pen Media&amp;rsquo;s Privacy Policy.</description>
+      
+    </item>
+    
+  </channel>
+</rss>

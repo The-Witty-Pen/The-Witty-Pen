@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://The-Witty-Pen.github.io/The-Witty-Pen/sitemap.xml
