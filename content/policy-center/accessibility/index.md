@@ -4,7 +4,7 @@ title: "Accessibility"
 categories: ["Accessibility","Policy","Legal"]
 tags: ["Accessibility","Policy","Legal"]
 showSummary: false
-#date: 2021-09-04
+date: 2022-01-01
 draft: false
 ---
 

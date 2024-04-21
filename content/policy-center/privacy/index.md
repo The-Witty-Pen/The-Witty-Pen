@@ -4,7 +4,7 @@ title: "Privacy Policy"
 categories: ["Privacy","Policy","Legal"]
 tags: ["Privacy","Policy","Legal"]
 showSummary: false
-#date: 2021-09-04
+date: 2022-01-01
 draft: false
 ---
 

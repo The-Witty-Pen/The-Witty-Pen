@@ -5,7 +5,7 @@ categories: ["Fiction","Children's Books","Picture Books"]
 tags: ["MoMo","SlowMo","FroMo","3-7 Years Old" ]
 #externalUrl: "https://shop.ingramspark.com/b/084?6Jjr4a9oedaDJFPfKytf1LvKUUDUXW5AIJUdB7cwUpO"
 showSummary: true
-#date: 2021-09-04
+date: 2022-01-01
 draft: false
 ---
 <div class="flex flex-wrap">
@@ -21,6 +21,7 @@ SlowMo  (the sloth) is hopelessly embroiled in finishing all his homework, at on
 
 <div class="flex flex-wrap">
 
+<div>
 <div class=" mt-3 ">
 {{< button href="https://shop.ingramspark.com/b/084?6Jjr4a9oedaDJFPfKytf1LvKUUDUXW5AIJUdB7cwUpO" target="_blank" >}}
 {{< icon "sun" >}}&nbsp;Ingram&nbsp;&nbsp;
@@ -31,6 +32,8 @@ SlowMo  (the sloth) is hopelessly embroiled in finishing all his homework, at on
 {{< icon "amazon" >}} Amazon&nbsp;
 {{< /button >}}
 </div>
+</div>
+<div>
 <div class=" mt-3 ">
 {{< button href="#button" target="_self" >}}
 {{< icon "bullseye" >}} &nbsp;&nbsp;Target&nbsp;&nbsp;
@@ -38,16 +41,18 @@ SlowMo  (the sloth) is hopelessly embroiled in finishing all his homework, at on
 </div>
 <div class=" mt-3 ">
 {{< button href="#button" target="_self" >}}
-{{< icon "walmart1" >}} Walmart&nbsp;
+{{< icon "walmart1" >}} Walmart
 {{< /button >}}
+</div>
 </div>
 </div>
 
 
 
 > Ingram Price: USD 7.99* <br>
+> ISBN: 978-1-958671-24-5 <br>
 > Recommended Age: 3-7 Years Old <br> 
-> Paperback | 6 x 9 inches | 42 pages | ISBN: 978-1-958671-24-5 
+> Paperback | 6 x 9 inches | 42 pages 
 
 {{< badge >}}  * Price may vary by store {{< /badge >}}
 
