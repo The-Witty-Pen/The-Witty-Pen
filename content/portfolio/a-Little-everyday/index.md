@@ -21,22 +21,22 @@ SlowMo  (the sloth) is hopelessly embroiled in finishing all his homework, at on
 
 <div class="flex flex-wrap">
 
-<div class=" mt-4 ">
+<div class=" mt-3 ">
 {{< button href="https://shop.ingramspark.com/b/084?6Jjr4a9oedaDJFPfKytf1LvKUUDUXW5AIJUdB7cwUpO" target="_blank" >}}
 {{< icon "sun" >}}&nbsp;Ingram&nbsp;&nbsp;
 {{< /button >}}
 </div>
-<div class=" mt-4 ">
+<div class=" mt-3 ">
 {{< button href="#button" target="_self" >}}
 {{< icon "amazon" >}} Amazon&nbsp;
 {{< /button >}}
 </div>
-<div class=" mt-4 ">
+<div class=" mt-3 ">
 {{< button href="#button" target="_self" >}}
 {{< icon "bullseye" >}} &nbsp;&nbsp;Target&nbsp;&nbsp;
 {{< /button >}}
 </div>
-<div class=" mt-4 ">
+<div class=" mt-3 ">
 {{< button href="#button" target="_self" >}}
 {{< icon "walmart1" >}} Walmart&nbsp;
 {{< /button >}}
