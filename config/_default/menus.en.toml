@@ -1,0 +1,48 @@
+[[main]]
+none = "none"
+
+
+[[main]]
+  name = "Portfolio"
+  pageRef = "portfolio"
+  pre = "grid"
+  weight = 10
+
+
+[[main]]
+  identifier = "Youtube"
+  name ="Youtube"
+  pre = "youtube"
+  url = "https://www.youtube.com/channel/UC0M9TsDeoNSSru-J-CYiH2A"
+  weight = 30
+
+
+[[main]]
+  identifier = "twitter"
+  name = "Twitter(X)"
+  pre = "x-twitter"
+  url = "https://twitter.com/momoandslowmo"
+  weight = 60
+
+[[main]]
+  name = "About"
+  pre = "threads"
+  pageRef = "author-bio"
+  weight = 90
+
+[[main]]
+  name = "Contact"
+  pre = "envelope"
+  pageRef = "contact-us"
+  weight = 100
+
+[[main]]
+  name = " Policy Center"
+  pre = "list"
+  pageRef = "policy-center"
+  weight = 120
+
+
+[[footer]]
+none = "none"
+showScrollToTop = true

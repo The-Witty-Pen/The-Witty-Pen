@@ -1,0 +1,29 @@
+languageCode = "en"
+languageName = "English"
+weight = 1
+title = "The Witty Pen"
+
+[params]
+displayName = "EN"
+isoCode = "en"
+rtl = false
+dateFormat = "2 January 2006"
+logo = "logo.png"
+description = "Momo & Slowmo is a children’s book series with two adorable characters, Momo (the hedgehog) and SlowMo (the sloth) and their enduring friendship, they together embark on a number of adventures, discovering and understanding not only the world around them"
+copyright = "&copy; 2024 The Witty Pen Media" # This overrides the Footer Copyright partial
+
+
+
+[author]
+name = "Momo & Slowmo Series"
+image = "cover.png"
+headline = "Available In Your Favorite Stores"
+bio = "Hi, I am Himani Malhotra.  The idea for children's books came to me when I became a mother. My children's books are a reflection of funny and silly conversations between me and my daughter. I hope that with my writing others can experience that world of emotions and feelings which resides inside all of us."
+
+links = [
+    { walmart1 = "https://www.walmart.com/search?q=Himani+Malhotra%3B+Jason+Pacliwan&facet=brand%3AHimani+Malhotra%3B+Jason+Pacliwan%7C%7Cbrand%3AHimani+Malhotra%7C%7Cbrand%3AWitty+Pen+Media%2C+LLC" },
+    { bullseye = "https://www.target.com/s?searchTerm=himani+malhotra+books&tref=typeahead%7Cterm%7Chimani+malhotra+books%7C%7C%7Chistory" },
+    { amazon = "https://www.amazon.com/stores/Himani-Malhotra/author/B0BCR5KNLW?ref=ap_rdr&isDramIntegrated=true&shoppingPortalEnabled=true" },
+    { gbooks = "https://www.google.com/books/edition/I_Want_to_Make_Pizza/C2KjzwEACAAJ?hl=en&kptab=morebyauthor" }
+
+ ]

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Accessibility on The Witty Pen</title>
+    <link>http://localhost:1313/tags/accessibility/</link>
+    <description>Recent content in Accessibility on The Witty Pen</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>&amp;copy; 2024 The Witty Pen Media</copyright>
+    <atom:link href="http://localhost:1313/tags/accessibility/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Accessibility</title>
+      <link>http://localhost:1313/policy-center/accessibility/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/policy-center/accessibility/</guid>
+      <description>Reach Out # We&amp;rsquo;re standing by to solve any issues regarding ADA compliance.</description>
+      
+    </item>
+    
+  </channel>
+</rss>
