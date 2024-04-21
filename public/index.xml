@@ -7,7 +7,17 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>&amp;copy; 2024 The Witty Pen Media</copyright>
-    <lastBuildDate>Mon, 13 Jun 2022 20:55:37 +0100</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 20 Apr 2024 18:57:41 -0700</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Readme</title>
+      <link>http://localhost:1313/readme/</link>
+      <pubDate>Sat, 20 Apr 2024 18:57:41 -0700</pubDate>
+      
+      <guid>http://localhost:1313/readme/</guid>
+      <description>This is an Author&amp;rsquo;s Website showcasing Author&amp;rsquo;s Work</description>
+      
+    </item>
+    
     <item>
       <title></title>
       <link>http://localhost:1313/contact-us/</link>
