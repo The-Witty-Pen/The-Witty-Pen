@@ -1,7 +1,7 @@
 # -- Site Configuration --
 
 #theme = "blowfish"
-baseURL = "https://thewittypen.com/"
+baseURL = "https://The-Witty-Pen.github.io/The-Witty-Pen/"
 defaultContentLanguage = "en"
 title = 'The Witty Pen'
 

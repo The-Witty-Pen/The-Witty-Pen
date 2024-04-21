@@ -3,56 +3,50 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
 
   <url>
-    <loc>http://localhost:1313/readme/</loc>
-    <lastmod>2024-04-20T18:57:41-07:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/</loc>
-    <lastmod>2024-04-20T18:57:41-07:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/policy-center/</loc>
+    <loc>http://localhost:1313/The-Witty-Pen/policy-center/</loc>
     <lastmod>2022-06-13T20:55:37+01:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/portfolio/</loc>
+    <loc>http://localhost:1313/The-Witty-Pen/portfolio/</loc>
     <lastmod>2022-06-13T20:55:37+01:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/contact-us/</loc>
+    <loc>http://localhost:1313/The-Witty-Pen/</loc>
+    <lastmod>2022-06-13T20:55:37+01:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/portfolio/a-little-everyday/</loc>
+    <loc>http://localhost:1313/The-Witty-Pen/contact-us/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/policy-center/accessibility/</loc>
+    <loc>http://localhost:1313/The-Witty-Pen/portfolio/a-little-everyday/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/author-bio/</loc>
+    <loc>http://localhost:1313/The-Witty-Pen/policy-center/accessibility/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/policy-center/privacy/</loc>
+    <loc>http://localhost:1313/The-Witty-Pen/author-bio/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/policy-center/terms/</loc>
+    <loc>http://localhost:1313/The-Witty-Pen/policy-center/privacy/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/The-Witty-Pen/policy-center/terms/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
