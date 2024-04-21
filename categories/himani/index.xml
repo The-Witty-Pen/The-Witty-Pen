@@ -2,28 +2,28 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Himani on The Witty Pen</title>
-    <link>https://The-Witty-Pen.github.io/The-Witty-Pen/categories/himani/</link>
+    <link>http://thewittypen.com/categories/himani/</link>
     <description>Recent content in Himani on The Witty Pen</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>&amp;copy; 2024 The Witty Pen Media</copyright>
-    <atom:link href="https://The-Witty-Pen.github.io/The-Witty-Pen/categories/himani/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://thewittypen.com/categories/himani/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title></title>
-      <link>https://The-Witty-Pen.github.io/The-Witty-Pen/contact-us/</link>
+      <link>http://thewittypen.com/contact-us/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://The-Witty-Pen.github.io/The-Witty-Pen/contact-us/</guid>
+      <guid>http://thewittypen.com/contact-us/</guid>
       <description> Loading… </description>
       
     </item>
     
     <item>
       <title>Himani Malhotra</title>
-      <link>https://The-Witty-Pen.github.io/The-Witty-Pen/author-bio/</link>
+      <link>http://thewittypen.com/author-bio/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://The-Witty-Pen.github.io/The-Witty-Pen/author-bio/</guid>
+      <guid>http://thewittypen.com/author-bio/</guid>
       <description># I am an Indian-Mom with a heart for Children&amp;rsquo;s Books</description>
       
     </item>
