@@ -2,118 +2,118 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on The Witty Pen</title>
-    <link>http://localhost:1313/The-Witty-Pen/categories/</link>
+    <link>http://localhost:1313/categories/</link>
     <description>Recent content in Categories on The Witty Pen</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>&amp;copy; 2024 The Witty Pen Media</copyright>
-    <atom:link href="http://localhost:1313/The-Witty-Pen/categories/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Accessibility</title>
-      <link>http://localhost:1313/The-Witty-Pen/categories/accessibility/</link>
+      <link>http://localhost:1313/categories/accessibility/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/The-Witty-Pen/categories/accessibility/</guid>
+      <guid>http://localhost:1313/categories/accessibility/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Author</title>
-      <link>http://localhost:1313/The-Witty-Pen/categories/author/</link>
+      <link>http://localhost:1313/categories/author/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/The-Witty-Pen/categories/author/</guid>
+      <guid>http://localhost:1313/categories/author/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Bio</title>
-      <link>http://localhost:1313/The-Witty-Pen/categories/bio/</link>
+      <link>http://localhost:1313/categories/bio/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/The-Witty-Pen/categories/bio/</guid>
+      <guid>http://localhost:1313/categories/bio/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Children&#39;s Books</title>
-      <link>http://localhost:1313/The-Witty-Pen/categories/childrens-books/</link>
+      <link>http://localhost:1313/categories/childrens-books/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/The-Witty-Pen/categories/childrens-books/</guid>
+      <guid>http://localhost:1313/categories/childrens-books/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Fiction</title>
-      <link>http://localhost:1313/The-Witty-Pen/categories/fiction/</link>
+      <link>http://localhost:1313/categories/fiction/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/The-Witty-Pen/categories/fiction/</guid>
+      <guid>http://localhost:1313/categories/fiction/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Himani</title>
-      <link>http://localhost:1313/The-Witty-Pen/categories/himani/</link>
+      <link>http://localhost:1313/categories/himani/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/The-Witty-Pen/categories/himani/</guid>
+      <guid>http://localhost:1313/categories/himani/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Legal</title>
-      <link>http://localhost:1313/The-Witty-Pen/categories/legal/</link>
+      <link>http://localhost:1313/categories/legal/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/The-Witty-Pen/categories/legal/</guid>
+      <guid>http://localhost:1313/categories/legal/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Picture Books</title>
-      <link>http://localhost:1313/The-Witty-Pen/categories/picture-books/</link>
+      <link>http://localhost:1313/categories/picture-books/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/The-Witty-Pen/categories/picture-books/</guid>
+      <guid>http://localhost:1313/categories/picture-books/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Policy</title>
-      <link>http://localhost:1313/The-Witty-Pen/categories/policy/</link>
+      <link>http://localhost:1313/categories/policy/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/The-Witty-Pen/categories/policy/</guid>
+      <guid>http://localhost:1313/categories/policy/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Privacy</title>
-      <link>http://localhost:1313/The-Witty-Pen/categories/privacy/</link>
+      <link>http://localhost:1313/categories/privacy/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/The-Witty-Pen/categories/privacy/</guid>
+      <guid>http://localhost:1313/categories/privacy/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Terms &amp; Conditions</title>
-      <link>http://localhost:1313/The-Witty-Pen/categories/terms--conditions/</link>
+      <link>http://localhost:1313/categories/terms--conditions/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/The-Witty-Pen/categories/terms--conditions/</guid>
+      <guid>http://localhost:1313/categories/terms--conditions/</guid>
       <description></description>
       
     </item>
