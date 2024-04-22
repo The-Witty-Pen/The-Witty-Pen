@@ -81,12 +81,6 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://thewittypen.com/portfolio/sorry/</loc>
-    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>http://thewittypen.com/contact-us/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
