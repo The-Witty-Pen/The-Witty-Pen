@@ -3,85 +3,127 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
 
   <url>
-    <loc>http://thewittypen.com/portfolio/rhyming/</loc>
+    <loc>https://thewittypen.com/portfolio/a-little-everyday/</loc>
+    <lastmod>2022-01-13T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://thewittypen.com/</loc>
+    <lastmod>2022-01-13T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://thewittypen.com/portfolio/math/</loc>
+    <lastmod>2022-01-12T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://thewittypen.com/portfolio/bestfriend/</loc>
+    <lastmod>2022-01-11T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://thewittypen.com/portfolio/throughout/</loc>
+    <lastmod>2022-01-10T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://thewittypen.com/portfolio/monster/</loc>
+    <lastmod>2022-01-09T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://thewittypen.com/portfolio/pizza/</loc>
+    <lastmod>2022-01-08T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://thewittypen.com/portfolio/a-taxi/</loc>
+    <lastmod>2022-01-07T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://thewittypen.com/portfolio/troubling/</loc>
+    <lastmod>2022-01-06T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://thewittypen.com/portfolio/rhyming/</loc>
     <lastmod>2022-01-05T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://thewittypen.com/</loc>
-    <lastmod>2022-01-05T00:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://thewittypen.com/portfolio/lets-play/</loc>
+    <loc>https://thewittypen.com/portfolio/lets-play/</loc>
     <lastmod>2022-01-04T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://thewittypen.com/portfolio/cheers-day/</loc>
+    <loc>https://thewittypen.com/portfolio/cheers-day/</loc>
     <lastmod>2022-01-03T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://thewittypen.com/portfolio/pineapple-corn/</loc>
+    <loc>https://thewittypen.com/portfolio/pineapple-corn/</loc>
     <lastmod>2022-01-02T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://thewittypen.com/portfolio/a-little-everyday/</loc>
+    <loc>https://thewittypen.com/policy-center/accessibility/</loc>
     <lastmod>2022-01-01T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://thewittypen.com/policy-center/accessibility/</loc>
+    <loc>https://thewittypen.com/author-bio/</loc>
     <lastmod>2022-01-01T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://thewittypen.com/author-bio/</loc>
+    <loc>https://thewittypen.com/policy-center/</loc>
     <lastmod>2022-01-01T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://thewittypen.com/policy-center/</loc>
+    <loc>https://thewittypen.com/portfolio/</loc>
     <lastmod>2022-01-01T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://thewittypen.com/portfolio/</loc>
+    <loc>https://thewittypen.com/policy-center/privacy/</loc>
     <lastmod>2022-01-01T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://thewittypen.com/policy-center/privacy/</loc>
+    <loc>https://thewittypen.com/policy-center/terms/</loc>
     <lastmod>2022-01-01T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://thewittypen.com/policy-center/terms/</loc>
+    <loc>https://thewittypen.com/portfolio/which-restroom/</loc>
     <lastmod>2022-01-01T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://thewittypen.com/portfolio/which-restroom/</loc>
-    <lastmod>2022-01-01T00:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://thewittypen.com/contact-us/</loc>
+    <loc>https://thewittypen.com/contact-us/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
