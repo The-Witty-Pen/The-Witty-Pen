@@ -68,15 +68,5 @@
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/portfolio/which-restroom/cover.jpg" />
     </item>
     
-    <item>
-      <title>We Are Sorry!</title>
-      <link>http://localhost:1313/portfolio/sorry/</link>
-      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/portfolio/sorry/</guid>
-      <description>REGRETS!</description>
-      
-    </item>
-    
   </channel>
 </rss>

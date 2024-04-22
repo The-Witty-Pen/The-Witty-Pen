@@ -36,7 +36,7 @@ Momo and SlowMo are involved in learning and teaching each other, as well as the
 </div>
 <div>
 <div class=" mt-3 ">
-{{< button href="../sorry/" target="_self" >}}
+{{< button href="/contact-us/regrets/" target="_self" >}}
 {{< icon "bullseye" >}} &nbsp;&nbsp;Target&nbsp;&nbsp;
 {{< /button >}}
 </div>

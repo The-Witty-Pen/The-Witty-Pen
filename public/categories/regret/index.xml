@@ -10,10 +10,10 @@
     <lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/categories/regret/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>We Are Sorry!</title>
-      <link>http://localhost:1313/portfolio/sorry/</link>
+      <link>http://localhost:1313/contact-us/regrets/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/portfolio/sorry/</guid>
+      <guid>http://localhost:1313/contact-us/regrets/</guid>
       <description>REGRETS!</description>
       
     </item>
