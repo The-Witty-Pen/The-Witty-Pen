@@ -1,7 +1,7 @@
 colorScheme = "blowfish"
 defaultAppearance = "light"
 autoSwitchAppearance = false
-enableSearch = false
+enableSearch = true
 enableCodeCopy = false
 disableImageOptimization = false
 disableTextInHeader = false
@@ -21,7 +21,7 @@ showScrollToTop = true
   layout = "hero" # valid options: page, profile, hero, card, background, custom
   homepageImage = "wave.svg" # used in: hero, and card
   showRecent = true
-  showRecentItems = 6
+  showRecentItems = 3
   showMoreLink = true
   showMoreLinkDest = "/portfolio"
   cardView = true

@@ -1,14 +1,14 @@
 # -- Site Configuration --
 
 #theme = "blowfish"
-baseURL = "http://thewittypen.com/"
+baseURL = "https://thewittypen.com/"
 defaultContentLanguage = "en"
 title = 'The Witty Pen'
 
 # pluralizeListTitles = "true" # hugo function useful for non-english languages, find out more in  https://gohugo.io/getting-started/configuration/#pluralizelisttitles
 
 enableRobotsTXT = true
-paginate = 10
+paginate = 6
 summaryLength = 0
 
 buildDrafts = false
