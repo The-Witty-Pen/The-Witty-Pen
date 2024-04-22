@@ -3,6 +3,36 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
 
   <url>
+    <loc>http://thewittypen.com/portfolio/rhyming/</loc>
+    <lastmod>2022-01-05T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://thewittypen.com/</loc>
+    <lastmod>2022-01-05T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://thewittypen.com/portfolio/lets-play/</loc>
+    <lastmod>2022-01-04T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://thewittypen.com/portfolio/cheers-day/</loc>
+    <lastmod>2022-01-03T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://thewittypen.com/portfolio/pineapple-corn/</loc>
+    <lastmod>2022-01-02T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>http://thewittypen.com/portfolio/a-little-everyday/</loc>
     <lastmod>2022-01-01T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
@@ -45,8 +75,14 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://thewittypen.com/</loc>
+    <loc>http://thewittypen.com/portfolio/which-restroom/</loc>
     <lastmod>2022-01-01T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://thewittypen.com/portfolio/sorry/</loc>
+    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
