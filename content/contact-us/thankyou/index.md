@@ -1,11 +1,11 @@
 ---
 title: "Thank You"
 #summary: "Himani Malhotra & Jason Pacliwan"
-categories: ["Himani","Author","Bio"]
-tags: ["Himani","Author","Bio"]
+categories: ["Thanks!","Message Sent"]
+tags: ["Thanks!","Message Sent"]
 #externalUrl: "https://shop.ingramspark.com/b/084?6Jjr4a9oedaDJFPfKytf1LvKUUDUXW5AIJUdB7cwUpO"
 showSummary: false
-#date: 2021-09-04
+date: 2021-01-01
 draft: false
 ---
 

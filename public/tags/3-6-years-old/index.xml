@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>3-6 Years Old on The&amp;nbsp;Witty&amp;nbsp;Pen</title>
+    <link>http://localhost:1313/tags/3-6-years-old/</link>
+    <description>Recent content in 3-6 Years Old on The&amp;nbsp;Witty&amp;nbsp;Pen</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>&amp;copy; 2024 The Witty Pen Media, LLC</copyright>
+    <lastBuildDate>Wed, 05 Jan 2022 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/3-6-years-old/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Rhyming Fun</title>
+      <link>http://localhost:1313/portfolio/rhyming/</link>
+      <pubDate>Wed, 05 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/portfolio/rhyming/</guid>
+      <description>Himani Malhotra &amp;amp; Jason Pacliwan</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/portfolio/rhyming/cover.jpg" />
+    </item>
+    
+    <item>
+      <title>Pineapple? Corn?</title>
+      <link>http://localhost:1313/portfolio/pineapple-corn/</link>
+      <pubDate>Sun, 02 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/portfolio/pineapple-corn/</guid>
+      <description>Himani Malhotra &amp;amp; Jason Pacliwan</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/portfolio/pineapple-corn/cover.jpg" />
+    </item>
+    
+    <item>
+      <title>A Little Everyday</title>
+      <link>http://localhost:1313/portfolio/a-little-everyday/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/portfolio/a-little-everyday/</guid>
+      <description>Himani Malhotra &amp;amp; Jason Pacliwan</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/portfolio/a-little-everyday/cover.png" />
+    </item>
+    
+    <item>
+      <title>Which RESTROOM Should I Use?</title>
+      <link>http://localhost:1313/portfolio/which-restroom/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/portfolio/which-restroom/</guid>
+      <description>Himani Malhotra &amp;amp; Jason Pacliwan</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/portfolio/which-restroom/cover.jpg" />
+    </item>
+    
+  </channel>
+</rss>

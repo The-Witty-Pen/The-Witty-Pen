@@ -2,7 +2,7 @@
 title: "A Little Everyday"
 summary: "Himani Malhotra & Jason Pacliwan"
 categories: ["Fiction","Children's Books","Picture Books"]
-tags: ["MoMo","SlowMo","FroMo","3-7 Years Old" ]
+tags: ["MoMo","SlowMo","FroMo","3-6 Years Old" ]
 #externalUrl: "https://shop.ingramspark.com/b/084?6Jjr4a9oedaDJFPfKytf1LvKUUDUXW5AIJUdB7cwUpO"
 showSummary: true
 date: 2022-01-01
@@ -51,7 +51,7 @@ SlowMo  (the sloth) is hopelessly embroiled in finishing all his homework, at on
 
 > Ingram Price: USD 7.99* <br>
 > ISBN: 978-1-958671-24-5 <br>
-> Recommended Age: 3-7 Years Old <br> 
+> Recommended Age: 3-6 Years Old <br> 
 > Paperback | 6 x 9 inches | 42 pages 
 
 {{< badge >}}  * Price may vary by store {{< /badge >}}

@@ -7,7 +7,37 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>&amp;copy; 2024 The Witty Pen Media, LLC</copyright>
-    <lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 05 Jan 2022 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Children&#39;s Books</title>
+      <link>http://localhost:1313/categories/childrens-books/</link>
+      <pubDate>Wed, 05 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/categories/childrens-books/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Fiction</title>
+      <link>http://localhost:1313/categories/fiction/</link>
+      <pubDate>Wed, 05 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/categories/fiction/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Picture Books</title>
+      <link>http://localhost:1313/categories/picture-books/</link>
+      <pubDate>Wed, 05 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/categories/picture-books/</guid>
+      <description></description>
+      
+    </item>
+    
     <item>
       <title>Accessibility</title>
       <link>http://localhost:1313/categories/accessibility/</link>
@@ -39,26 +69,6 @@
     </item>
     
     <item>
-      <title>Children&#39;s Books</title>
-      <link>http://localhost:1313/categories/childrens-books/</link>
-      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/categories/childrens-books/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Fiction</title>
-      <link>http://localhost:1313/categories/fiction/</link>
-      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/categories/fiction/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
       <title>Himani</title>
       <link>http://localhost:1313/categories/himani/</link>
       <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
@@ -74,16 +84,6 @@
       <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
       
       <guid>http://localhost:1313/categories/legal/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Picture Books</title>
-      <link>http://localhost:1313/categories/picture-books/</link>
-      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/categories/picture-books/</guid>
       <description></description>
       
     </item>
@@ -114,6 +114,26 @@
       <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
       
       <guid>http://localhost:1313/categories/terms--conditions/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Regret</title>
+      <link>http://localhost:1313/categories/regret/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/categories/regret/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Sorry</title>
+      <link>http://localhost:1313/categories/sorry/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/categories/sorry/</guid>
       <description></description>
       
     </item>
