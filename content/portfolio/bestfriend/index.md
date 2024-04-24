@@ -28,19 +28,19 @@ Will a little tiff between our dear friends Momo (the hedgehog) and SlowMo (the 
 {{< /button >}}
 </div>
 <div class=" mt-3 ">
-{{< button href="https://www.amazon.com/Bestfriend-Momo-SlowMo-Himani-Malhotra/dp/B0BCS93XSF?ref_=ast_author_dp&dib=eyJ2IjoiMSJ9.dYxmww1tIUWurqQuZmuas4KtSrFfATubZ32RWKInAf1ab4_UMUyMFgSZ517gi6KtpLaTI68lOz2u5kVYSKMewFrmwU0nyNrccXJIOwoj1JPY4bfTQzOJu8bGxWVJswd-3b4_F34MIxmRC7hIkbXmtg.WnEf784vXBjSzzlj8469qBjw1pY5WlEvF8YuShJ2oSE&dib_tag=AUTHOR" target="_self" >}}
+{{< button href="https://www.amazon.com/Bestfriend-Momo-SlowMo-Himani-Malhotra/dp/B0BCS93XSF?ref_=ast_author_dp&dib=eyJ2IjoiMSJ9.dYxmww1tIUWurqQuZmuas4KtSrFfATubZ32RWKInAf1ab4_UMUyMFgSZ517gi6KtpLaTI68lOz2u5kVYSKMewFrmwU0nyNrccXJIOwoj1JPY4bfTQzOJu8bGxWVJswd-3b4_F34MIxmRC7hIkbXmtg.WnEf784vXBjSzzlj8469qBjw1pY5WlEvF8YuShJ2oSE&dib_tag=AUTHOR" target="_blank" >}}
 {{< icon "amazon" >}} Amazon&nbsp;
 {{< /button >}}
 </div>
 </div>
 <div>
 <div class=" mt-3 ">
-{{< button href="/contact-us/regrets/" target="_self" >}}
+{{< button href="/contact-us/regrets/" target="_blank" >}}
 {{< icon "bullseye" >}} &nbsp;&nbsp;Target&nbsp;&nbsp;
 {{< /button >}}
 </div>
 <div class=" mt-3 ">
-{{< button href="https://www.walmart.com/ip/Bestfriend-Paperback-9781958671016/1609565762?from=/search" target="_self" >}}
+{{< button href="https://www.walmart.com/ip/Bestfriend-Paperback-9781958671016/1609565762?from=/search" target="_blank" >}}
 {{< icon "walmart1" >}} Walmart
 {{< /button >}}
 </div>

@@ -28,19 +28,19 @@ Momo and SlowMo get into a battle of wits over the question of "What is a pineap
 {{< /button >}}
 </div>
 <div class=" mt-3 ">
-{{< button href="https://www.amazon.com/Pineapple-Corn-Himani-Malhotra/dp/1958671266/ref=sr_1_4?crid=35IRES1ZDV7P1&dib=eyJ2IjoiMSJ9.hnAC2KLO1v3OBaM-26_tjYalVZ33r1vr7B-bFx_les2HMbUHjI4yTy0YV24f4C3D2plGG5B-fhTjhWEFy1u0ft1EPTIpd_CbtH-RqB-t65hL0JthB065cX02_epPvok1FPdctLmDre3rj0uZyjJ-Y-1mraqy8TdtcqP27bGtMeKBt1cfFcCzt9cr2EIV3OMDM-VBnn4wNdgFPxNWl4lvuazsPUtM_KEbyLT6KHmRUws.SfJRNB_8h4sB-2u6V4smq8EDAjIQH6JyDLrV-ABcr0I&dib_tag=se&keywords=Himani+Malhotra+books&qid=1713654997&sprefix=himani+malhotra+books%2Caps%2C366&sr=8-4" target="_self" >}}
+{{< button href="https://www.amazon.com/Pineapple-Corn-Himani-Malhotra/dp/1958671266/ref=sr_1_4?crid=35IRES1ZDV7P1&dib=eyJ2IjoiMSJ9.hnAC2KLO1v3OBaM-26_tjYalVZ33r1vr7B-bFx_les2HMbUHjI4yTy0YV24f4C3D2plGG5B-fhTjhWEFy1u0ft1EPTIpd_CbtH-RqB-t65hL0JthB065cX02_epPvok1FPdctLmDre3rj0uZyjJ-Y-1mraqy8TdtcqP27bGtMeKBt1cfFcCzt9cr2EIV3OMDM-VBnn4wNdgFPxNWl4lvuazsPUtM_KEbyLT6KHmRUws.SfJRNB_8h4sB-2u6V4smq8EDAjIQH6JyDLrV-ABcr0I&dib_tag=se&keywords=Himani+Malhotra+books&qid=1713654997&sprefix=himani+malhotra+books%2Caps%2C366&sr=8-4" target="_blank" >}}
 {{< icon "amazon" >}} Amazon&nbsp;
 {{< /button >}}
 </div>
 </div>
 <div>
 <div class=" mt-3 ">
-{{< button href="https://www.target.com/p/pineapple-corn-by-himani-malhotra-paperback/-/A-89724265#lnk=sametab" target="_self" >}}
+{{< button href="https://www.target.com/p/pineapple-corn-by-himani-malhotra-paperback/-/A-89724265#lnk=sametab" target="_blank" >}}
 {{< icon "bullseye" >}} &nbsp;&nbsp;Target&nbsp;&nbsp;
 {{< /button >}}
 </div>
 <div class=" mt-3 ">
-{{< button href="https://www.walmart.com/ip/Pineapple-Corn-Paperback-9781958671269/3687583372?from=/search" target="_self" >}}
+{{< button href="https://www.walmart.com/ip/Pineapple-Corn-Paperback-9781958671269/3687583372?from=/search" target="_blank" >}}
 {{< icon "walmart1" >}} Walmart
 {{< /button >}}
 </div>

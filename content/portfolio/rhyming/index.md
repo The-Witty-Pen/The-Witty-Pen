@@ -28,19 +28,19 @@ Momo, SlowMo and FroMo are having lots of fun, as they indulge themselves in pla
 {{< /button >}}
 </div>
 <div class=" mt-3 ">
-{{< button href="https://www.amazon.com/Rhyming-Fun-Himani-Malhotra/dp/1958671185/ref=sr_1_4?crid=1CK2MEUNFP3CE&dib=eyJ2IjoiMSJ9.6nykVcRw6WiTIDXUkw_OZIalVZ33r1vr7B-bFx_les2uVpwNzY_Gii0d25dGAPdQ-8HIz7WqoqO3IuOiJmUm0xWQSjL7VlQl8mjE1WVErXmzpjS3fhWyItwAuXS9uFMvigjkCDjiUC29-XLs9_ScOLc0N7CrCOcoiLGuRXX8AW9KTGZO66zC20KvqWvG0A21VHRxEhmBbT6TAxt4OCzYrNcSYDXjSytsY7xRSOLUCik.EHqwhRo71DS_fJ32YDBH5tv0d5iIKjdLr6bA4fDZwRM&dib_tag=se&keywords=Himani+Malhotra&qid=1711042442&sprefix=himani+malhotra%2Caps%2C126&sr=8-4" target="_self" >}}
+{{< button href="https://www.amazon.com/Rhyming-Fun-Himani-Malhotra/dp/1958671185/ref=sr_1_4?crid=1CK2MEUNFP3CE&dib=eyJ2IjoiMSJ9.6nykVcRw6WiTIDXUkw_OZIalVZ33r1vr7B-bFx_les2uVpwNzY_Gii0d25dGAPdQ-8HIz7WqoqO3IuOiJmUm0xWQSjL7VlQl8mjE1WVErXmzpjS3fhWyItwAuXS9uFMvigjkCDjiUC29-XLs9_ScOLc0N7CrCOcoiLGuRXX8AW9KTGZO66zC20KvqWvG0A21VHRxEhmBbT6TAxt4OCzYrNcSYDXjSytsY7xRSOLUCik.EHqwhRo71DS_fJ32YDBH5tv0d5iIKjdLr6bA4fDZwRM&dib_tag=se&keywords=Himani+Malhotra&qid=1711042442&sprefix=himani+malhotra%2Caps%2C126&sr=8-4" target="_blank" >}}
 {{< icon "amazon" >}} Amazon&nbsp;
 {{< /button >}}
 </div>
 </div>
 <div>
 <div class=" mt-3 ">
-{{< button href="https://www.target.com/p/rhyming-fun-by-himani-malhotra-paperback/-/A-89724314#lnk=sametab" target="_self" >}}
+{{< button href="https://www.target.com/p/rhyming-fun-by-himani-malhotra-paperback/-/A-89724314#lnk=sametab" target="_blank" >}}
 {{< icon "bullseye" >}} &nbsp;&nbsp;Target&nbsp;&nbsp;
 {{< /button >}}
 </div>
 <div class=" mt-3 ">
-{{< button href="https://www.walmart.com/ip/Rhyming-Fun-Paperback-9781958671184/3170374166?from=/search" target="_self" >}}
+{{< button href="https://www.walmart.com/ip/Rhyming-Fun-Paperback-9781958671184/3170374166?from=/search" target="_blank" >}}
 {{< icon "walmart1" >}} Walmart
 {{< /button >}}
 </div>

@@ -28,19 +28,19 @@ Another adventure on the way, where the super inventive Momo (the hedgehog) devi
 {{< /button >}}
 </div>
 <div class=" mt-3 ">
-{{< button href="https://www.amazon.com/Lets-Play-Game-Himani-Malhotra/dp/1958671363/ref=sr_1_6?crid=1CK2MEUNFP3CE&dib=eyJ2IjoiMSJ9.6nykVcRw6WiTIDXUkw_OZIalVZ33r1vr7B-bFx_les2uVpwNzY_Gii0d25dGAPdQ-8HIz7WqoqO3IuOiJmUm0xWQSjL7VlQl8mjE1WVErXmzpjS3fhWyItwAuXS9uFMvigjkCDjiUC29-XLs9_ScOLc0N7CrCOcoiLGuRXX8AW9KTGZO66zC20KvqWvG0A21VHRxEhmBbT6TAxt4OCzYrNcSYDXjSytsY7xRSOLUCik.EHqwhRo71DS_fJ32YDBH5tv0d5iIKjdLr6bA4fDZwRM&dib_tag=se&keywords=Himani+Malhotra&qid=1711042442&sprefix=himani+malhotra%2Caps%2C126&sr=8-6" target="_self" >}}
+{{< button href="https://www.amazon.com/Lets-Play-Game-Himani-Malhotra/dp/1958671363/ref=sr_1_6?crid=1CK2MEUNFP3CE&dib=eyJ2IjoiMSJ9.6nykVcRw6WiTIDXUkw_OZIalVZ33r1vr7B-bFx_les2uVpwNzY_Gii0d25dGAPdQ-8HIz7WqoqO3IuOiJmUm0xWQSjL7VlQl8mjE1WVErXmzpjS3fhWyItwAuXS9uFMvigjkCDjiUC29-XLs9_ScOLc0N7CrCOcoiLGuRXX8AW9KTGZO66zC20KvqWvG0A21VHRxEhmBbT6TAxt4OCzYrNcSYDXjSytsY7xRSOLUCik.EHqwhRo71DS_fJ32YDBH5tv0d5iIKjdLr6bA4fDZwRM&dib_tag=se&keywords=Himani+Malhotra&qid=1711042442&sprefix=himani+malhotra%2Caps%2C126&sr=8-6" target="_blank" >}}
 {{< icon "amazon" >}} Amazon&nbsp;
 {{< /button >}}
 </div>
 </div>
 <div>
 <div class=" mt-3 ">
-{{< button href="https://www.target.com/p/let-s-play-a-new-game-by-himani-malhotra-paperback/-/A-89724051#lnk=sametab" target="_self" >}}
+{{< button href="https://www.target.com/p/let-s-play-a-new-game-by-himani-malhotra-paperback/-/A-89724051#lnk=sametab" target="_blank" >}}
 {{< icon "bullseye" >}} &nbsp;&nbsp;Target&nbsp;&nbsp;
 {{< /button >}}
 </div>
 <div class=" mt-3 ">
-{{< button href="https://www.walmart.com/ip/Let-s-Play-a-New-Game-Paperback-9781958671368/3513492898?from=/search" target="_self" >}}
+{{< button href="https://www.walmart.com/ip/Let-s-Play-a-New-Game-Paperback-9781958671368/3513492898?from=/search" target="_blank" >}}
 {{< icon "walmart1" >}} Walmart
 {{< /button >}}
 </div>

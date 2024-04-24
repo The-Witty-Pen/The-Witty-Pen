@@ -9,7 +9,7 @@ showSummary: false
 draft: false
 ---
 
-### We ❤️ to hear from our readers
+### We <span style="color: red;">❤️</span> to hear from our readers
 
 <script type="text/javascript">var submitted=false;</script>
 <iframe name="hidden_iframe" id="hidden_iframe" style="display:none;" 

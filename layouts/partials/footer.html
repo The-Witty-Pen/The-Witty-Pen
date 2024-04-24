@@ -40,7 +40,7 @@
     {{ if .Site.Params.footer.showThemeAttribution | default false }}
     <p class="text-xs text-neutral-500 dark:text-neutral-400">
       {{ $hugo := printf `<a class="hover:underline hover:decoration-primary-400 hover:text-primary-500"
-        href="" target="_blank" rel="noopener noreferrer">❤️</a>`
+        href="" target="_blank" rel="noopener noreferrer"><span style="color: red;">❤️</span></a>`
       }}
       {{ $blowfish := printf `<a class="hover:underline hover:decoration-primary-400 hover:text-primary-500"
         href="https://www.linkedin.com/in/guptasaurabh/" target="_blank" rel="noopener noreferrer">Saurabh</a>` }}

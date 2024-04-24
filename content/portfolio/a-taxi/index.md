@@ -28,19 +28,19 @@ In this book, Momo and SlowMo engage in another adventure, which involves going 
 {{< /button >}}
 </div>
 <div class=" mt-3 ">
-{{< button href="https://www.amazon.com/Taxi-Momo-SlowMo-Himani-Malhotra/dp/1958671002/?_encoding=UTF8&pd_rd_w=lrwku&content-id=amzn1.sym.cf86ec3a-68a6-43e9-8115-04171136930a&pf_rd_p=cf86ec3a-68a6-43e9-8115-04171136930a&pf_rd_r=132-3519476-1554228&pd_rd_wg=m8UHE&pd_rd_r=652fbdd9-0bf6-4536-91c9-0c01341183dd&ref_=aufs_ap_sc_dsk" target="_self" >}}
+{{< button href="https://www.amazon.com/Taxi-Momo-SlowMo-Himani-Malhotra/dp/1958671002/?_encoding=UTF8&pd_rd_w=lrwku&content-id=amzn1.sym.cf86ec3a-68a6-43e9-8115-04171136930a&pf_rd_p=cf86ec3a-68a6-43e9-8115-04171136930a&pf_rd_r=132-3519476-1554228&pd_rd_wg=m8UHE&pd_rd_r=652fbdd9-0bf6-4536-91c9-0c01341183dd&ref_=aufs_ap_sc_dsk" target="_blank" >}}
 {{< icon "amazon" >}} Amazon&nbsp;
 {{< /button >}}
 </div>
 </div>
 <div>
 <div class=" mt-3 ">
-{{< button href="/contact-us/regrets/" target="_self" >}}
+{{< button href="/contact-us/regrets/" target="_blank" >}}
 {{< icon "bullseye" >}} &nbsp;&nbsp;Target&nbsp;&nbsp;
 {{< /button >}}
 </div>
 <div class=" mt-3 ">
-{{< button href="https://www.walmart.com/ip/Momo-and-Slowmo-A-Taxi-Momo-and-SlowMo-Series-Paperback-9781958671009/1011315578?from=/search" target="_self" >}}
+{{< button href="https://www.walmart.com/ip/Momo-and-Slowmo-A-Taxi-Momo-and-SlowMo-Series-Paperback-9781958671009/1011315578?from=/search" target="_blank" >}}
 {{< icon "walmart1" >}} Walmart
 {{< /button >}}
 </div>
