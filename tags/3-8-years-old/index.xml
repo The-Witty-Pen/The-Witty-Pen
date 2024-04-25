@@ -48,5 +48,15 @@
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://thewittypen.com/portfolio/troubling/cover.jpg" />
     </item>
     
+    <item>
+      <title>Coming Soon!</title>
+      <link>https://thewittypen.com/portfolio/coming-soon/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://thewittypen.com/portfolio/coming-soon/</guid>
+      <description>Sneak Preview Of Future Releases</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://thewittypen.com/portfolio/coming-soon/cover.png" />
+    </item>
+    
   </channel>
 </rss>
