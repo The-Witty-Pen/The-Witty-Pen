@@ -15,9 +15,24 @@ none = "none"
 
 [[main]]
   name = "Portfolio"
-  pageRef = "portfolio"
   pre = "grid"
   weight = 30
+
+[[main]]
+  parent = "Portfolio"
+  identifier = "in-stores-now"
+  pageRef = "portfolio"
+  pre = "purchase"
+  weight = 31
+  name = "&nbsp;In&nbsp;Stores&nbsp;Now"
+
+[[main]]
+  parent = "Portfolio"
+  identifier = "coming-soon"
+  pageRef = "portfolio/coming-soon"
+  pre = "announcement-icon"
+  weight = 32
+  name = "&nbsp;Coming&nbsp;Soon"
 
 [[main]]
   name = "Policy&nbsp;Center"
