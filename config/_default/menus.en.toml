@@ -3,7 +3,7 @@ none = "none"
 
 [[main]]
   name = "Author"
-  pre = "threads"
+  pre = "author"
   pageRef = "author-bio"
   weight = 10
 
@@ -58,7 +58,7 @@ none = "none"
   identifier = "amazon"
   name = "Amazon"
   pre = "amazon"
-  url = "https://www.amazon.com/stores/Himani-Malhotra/author/B0BCR5KNLW?ref=ap_rdr&isDramIntegrated=true&shoppingPortalEnabled=true"
+  url = "https://www.amazon.com/s?k=himani+malhotra+%2B+jason+pacliwan+%2B+witty+pen&crid=1QEVQUA2JPCIA&sprefix=himani+malhotra+%2B+jason+pacliwan+%2B+witty+pen%2Caps%2C128&ref=nb_sb_noss"
   weight = 65
 
 [[main]]
@@ -85,6 +85,13 @@ none = "none"
   url = "https://twitter.com/momoandslowmo"
   weight = 80
 
+[[main]]
+  parent = "External&nbsp;Links"
+  identifier = "instagram"
+  name = "Instagram"
+  pre = "threads"
+  url = "https://www.instagram.com/momoandslowmo?utm_source=qr&igsh=MTM4NzE4Yjh2N3I0eQ=="
+  weight = 90
 
 [[footer]]
 none = "none"

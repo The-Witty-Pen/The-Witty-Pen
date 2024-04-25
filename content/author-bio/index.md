@@ -33,9 +33,10 @@ draft: false
 
 <a href="https://www.target.com/s?searchTerm=himani+malhotra+books&tref=typeahead%7Cterm%7Chimani+malhotra+books%7C%7C%7Chistory" target="_blank">{{< icon "bullseye" >}} Target &nbsp;&nbsp;</a><br>
 <a href="https://twitter.com/momoandslowmo" target="_blank">{{< icon "x-twitter" >}} Twitter&nbsp;&nbsp; </a><br>
+<a href="https://www.amazon.com/s?k=himani+malhotra+%2B+jason+pacliwan+%2B+witty+pen&crid=1QEVQUA2JPCIA&sprefix=himani+malhotra+%2B+jason+pacliwan+%2B+witty+pen%2Caps%2C128&ref=nb_sb_noss" target="_blank">{{< icon "amazon" >}} Amazon</a><br>
 <a href="https://www.youtube.com/channel/UC0M9TsDeoNSSru-J-CYiH2A" target="_blank">{{< icon "youtube" >}} Youtube &nbsp;&nbsp;</a><br>
 <a href="https://www.walmart.com/search?q=Himani+Malhotra%3B+Jason+Pacliwan&facet=brand%3AHimani+Malhotra%3B+Jason+Pacliwan%7C%7Cbrand%3AHimani+Malhotra%7C%7Cbrand%3AWitty+Pen+Media%2C+LLC" target="_blank">{{< icon "walmart1" >}} Walmart &nbsp;&nbsp;</a><br>
-<a href="https://www.amazon.com/stores/Himani-Malhotra/author/B0BCR5KNLW?ref=ap_rdr&isDramIntegrated=true&shoppingPortalEnabled=true" target="_blank">{{< icon "amazon" >}} Amazon</a> 
+<a href="https://www.instagram.com/momoandslowmo?utm_source=qr&igsh=MTM4NzE4Yjh2N3I0eQ==" target="_blank">{{< icon "threads" >}} Instagram</a>
 
 {{< badge >}} &nbsp; Links open in a new browser tab &nbsp;{{< /badge >}}
 

@@ -23,7 +23,7 @@ bio = "Hi, I am Himani Malhotra.  The idea for children's books came to me when 
 links = [
     { walmart1 = "https://www.walmart.com/search?q=Himani+Malhotra%3B+Jason+Pacliwan&facet=brand%3AHimani+Malhotra%3B+Jason+Pacliwan%7C%7Cbrand%3AHimani+Malhotra%7C%7Cbrand%3AWitty+Pen+Media%2C+LLC" },
     { bullseye = "https://www.target.com/s?searchTerm=himani+malhotra+books&tref=typeahead%7Cterm%7Chimani+malhotra+books%7C%7C%7Chistory" },
-    { amazon = "https://www.amazon.com/stores/Himani-Malhotra/author/B0BCR5KNLW?ref=ap_rdr&isDramIntegrated=true&shoppingPortalEnabled=true" },
+    { amazon = "https://www.amazon.com/s?k=himani+malhotra+%2B+jason+pacliwan+%2B+witty+pen&crid=1QEVQUA2JPCIA&sprefix=himani+malhotra+%2B+jason+pacliwan+%2B+witty+pen%2Caps%2C128&ref=nb_sb_noss" },
     { gbooks = "https://www.google.com/books/edition/I_Want_to_Make_Pizza/C2KjzwEACAAJ?hl=en&kptab=morebyauthor" }
 
  ]
