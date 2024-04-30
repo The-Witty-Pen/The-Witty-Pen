@@ -9,8 +9,8 @@ date: 2021-01-01
 draft: false
 ---
 
-## REGRETS! This book s not availabe in this store yet, we are working on getting it there
+## Regrets! This book is not available in this store yet, we are working on getting it there
 
 > We are always working with popular stores to make our books available, but sometimes it takes longer than usual.<br>
-> We appreciate your pateince <br>
+> We appreciate your patience <br>
 > Thanks!
